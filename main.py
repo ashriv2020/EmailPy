@@ -2,7 +2,7 @@ import yagmail
 import os
 import time
 
-sender="webhrss@gmail.com"
+sender="webhrsss@gmail.com"
 receiver="fsufsbzc@yomail.info"
 subject="This is subject of email"
 contents=("""
